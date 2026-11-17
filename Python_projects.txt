@@ -1,0 +1,18 @@
+a=input()
+b=input()
+if(a=="paper" and b=="rock"):
+    print ("b is the winner")
+if(a=="rock" and b=="paper"):
+    print("a is the winner")
+if(a=="paper" and b=="scissor"):
+    print("b is the winner")
+if(a=="rock" and b=="paper"):
+    print("a is the winner")
+if(a=="scissor"and b=="paper"):
+    print("a is the winner")
+if(a=="paper" and b=="paper"):
+    print ("none is the winner")
+if(a=="rock" and b=="scissor"):
+    print("a is the winner")
+if(a=="rock" and b=="rock)"):
+    print("none is the winner")
